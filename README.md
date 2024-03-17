@@ -6,6 +6,11 @@
 
 Bienvenue dans le repository GitHub du projet (fictif) pour la ville de Seattle ! Afin de contribuer à atteindre l'objectif de ville neutre en émissions de carbone d'ici 2050, on se concentre sur la consommation et les émissions des bâtiments non destinés à l'habitation. L'objectif est de prédire les émissions de CO2 et la consommation totale d'énergie de ces bâtiments, pour ceux qui n'ont pas encore été mesurées, en utilisant des données structurelles des bâtiments, telles que la taille, l'usage, la date de construction, la situation géographique, etc..
 
+## Description des livrables
+
+Pélec_01_notebook.ipynb : notebook d'analyse exploratoire + nettoyage des données. <br>
+Pélec_02_code.ipynb : notebook de modélisation de la consommation énergetique. <br>
+
 ## Les Données
 
 Des relevés minutieux ont été effectués par les agents de la ville en 2016. Cependant, ces relevés sont coûteux à obtenir, nous souhaitons donc exploiter ceux déjà réalisés pour tenter de prédire les émissions de CO2 et la consommation d'énergie des bâtiments non résidentiels pour lesquels elles n'ont pas encore été mesurées. Elles sont disponibles [ici](https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy)
